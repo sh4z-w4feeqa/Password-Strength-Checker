@@ -52,13 +52,13 @@ if(strength===0){
     strengthMeter.style.backgroundColor = '#ffA64D';
 }else if (strength < 70) {
     strengthText.textContent = "Medium";
-    strengthMeter.style.backgroundColor = '#ffff4d';
+    strengthMeter.style.backgroundColor = '#FEBE00';
 }else if (strength < 90) {
     strengthText.textContent = "Strong";
     strengthMeter.style.backgroundColor = '#A3ff4d';
 }else{
     strengthText.textContent = "Very Strong";
-    strengthMeter.style.backgroundColor = '#4dffff';
+    strengthMeter.style.backgroundColor = '#006400';
 }
 }
 
