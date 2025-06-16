@@ -1,10 +1,6 @@
 # Password-Strength-Checker
-Project that checks the password and changes colour according to its strength
-Very Weak - Red
-Weak - Orange
-Medium - Yellow
-Strong - Light Green
-Very Strong - Dark Green
+Project that checks the password and changes colour according to its strength:
+*Very Weak* (Red), *Weak* (Orange), *Medium* (Yellow), *Strong* (Light Green), *Very Strong* (Dark Green)
 
 ![Image](https://github.com/user-attachments/assets/dd491a3c-fdeb-47a8-be96-f234bd45a329)
 ![Image](https://github.com/user-attachments/assets/22fcc1a8-413b-446e-bea6-0a8c6d268eea)
